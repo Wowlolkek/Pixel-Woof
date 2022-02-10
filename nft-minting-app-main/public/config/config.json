@@ -1,0 +1,18 @@
+{
+	"CONTRACT_ADDRESS": "0x51545AE51eb7215D08815E8370E7f8A1C228C58d",
+	"SCAN_LINK": "https://polygonscan.com/address/0x51545ae51eb7215d08815e8370e7f8a1c228c58d",
+	"NETWORK": {
+		"NAME": "Polygon",
+		"SYMBOL": "Matic",
+		"ID": 137
+	},
+	"NFT_NAME": "Pixel Woof",
+	"SYMBOL": "PW",
+	"MAX_SUPPLY": 1111,
+	"WEI_COST": 1000000000000000000,
+	"DISPLAY_COST": 1,
+	"GAS_LIMIT": 285000,
+	"MARKETPLACE": "Opeansea",
+	"MARKETPLACE_LINK": "https://opensea.io/collection/pixel-woof",
+	"SHOW_BACKGROUND": true
+}
