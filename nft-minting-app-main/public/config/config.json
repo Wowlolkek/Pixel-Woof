@@ -14,5 +14,7 @@
 	"GAS_LIMIT": 285000,
 	"MARKETPLACE": "Opeansea",
 	"MARKETPLACE_LINK": "https://opensea.io/collection/pixel-woof",
-	"SHOW_BACKGROUND": true
+	"SHOW_BACKGROUND": true,
+	"SOCIALNETWORK": "Twitter",
+	"SOCIALNETWORK_LINK": "https://twitter.com/pixel_woof"
 }
